@@ -1,0 +1,12 @@
+5156eafed0abcbf3633aa84759badc80 *DESCRIPTION
+8898be3eee03abb55e282f951f7da701 *LICENSE
+fabb492b1d3ffa96c7241ae6c0a645f1 *NAMESPACE
+69045d050ca4985fe2631776be955f03 *R/lin_eval.R
+346f04320c0b136e2045cbb281857b77 *README.md
+56939afd06d881a7c93476c2da99da57 *build/vignette.rds
+b3063a8efe2f0745e1975e76295e40d4 *inst/doc/lin_eval.R
+2f8a7bef1dc00498a42b74cb99c0c304 *inst/doc/lin_eval.Rmd
+0f7f6f75883ec472ae0c38227d7ea6c0 *inst/doc/lin_eval.html
+2d495defc832a8ba62344d9c9f2d2c64 *man/calculate_adl.Rd
+631a860ef73aad99c27429c7a7c73e3e *man/poly_eval.Rd
+2f8a7bef1dc00498a42b74cb99c0c304 *vignettes/lin_eval.Rmd
